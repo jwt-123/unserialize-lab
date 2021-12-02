@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="24321d10-e4c1-43bf-84a1-ff44034d10aa" name="localhost" url="http://localhost/unserialize-lab">
+        <fileTransfer mountedRoot="D:\phpstudy_pro\WWW\unserialize-lab" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
